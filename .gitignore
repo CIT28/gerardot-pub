@@ -1,14 +1,10 @@
-# VS Code settings - allow shared configs
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+!*.code-workspace
 
-# Local History for Visual Studio Code
-.history/
-
-# OS junk files
-.DS_Store
-Thumbs.db
+# Built Visual Studio Code Extensions
+*.vsix
