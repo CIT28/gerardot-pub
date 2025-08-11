@@ -1,2 +1,2 @@
 # gerardot-pub
-Gerardo's Public Repo
+Gerardo's Public Account
